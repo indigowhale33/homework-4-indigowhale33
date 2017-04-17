@@ -1,4 +1,3 @@
-# homework-iv-IMLPye
 # homework-iv-starter
 
 There are two main files:
